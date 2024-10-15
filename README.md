@@ -59,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Muhd Wafiyuddin - [Your Email](mailto:muhdwafiyuddin5@gmail.com)
+Muhd Wafiyuddin - [muhdwafiyuddin5@gmail.com](mailto:muhdwafiyuddin5@gmail.com)
 
 Project Repository: [https://github.com/WarriorWiras/Python-Projects](https://github.com/WarriorWiras/Python-Projects)
 
