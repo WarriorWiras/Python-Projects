@@ -55,7 +55,9 @@ This repository demonstrates a variety of technologies and libraries in the Pyth
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Unless stated otherwise in individual subprojects, content in this repository is released under the **MIT License**.
+
+You are free to use, modify, and distribute the material for educational purposes with proper attribution.
 
 ## Contact
 
